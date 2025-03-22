@@ -1,2 +1,2 @@
-# -myproh
+# -myproject
 Myproject
